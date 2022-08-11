@@ -12,14 +12,15 @@ The intent of this is project is to analyze Hawaii's weather data in order to he
 
 ## Results
 
-### June Weather Analysis
+#### June Weather Summary
 
 ![june_temps](https://user-images.githubusercontent.com/106921601/184042678-a5d56cca-1059-4f6e-ae75-9f4a9d54781a.PNG)
 
-
-### December Weather Analysis
+#### December Weather Summary
 
 ![december_temps](https://user-images.githubusercontent.com/106921601/184042692-38ba36dd-0b45-442b-b484-f2b32ce0c8b4.PNG)
+
+### Comparison of June vs December Weather
 
 
 
